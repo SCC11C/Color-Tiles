@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColorTiles</string>
+    <string name="start_again">Играть снова</string>
+    <string name="click_count_text">Кол-во нажатий: 0</string>
+</resources>
